@@ -9,20 +9,20 @@
 
 ## Short Term:
 
-[ ] - Change Styling
+- [ ] - Change Styling
 
-[ ] - Add properties for Amazon purchase links
+- [ ] - Add properties for Amazon purchase links
 
-[ ] - Add properties for Cover Art
+- [ ] - Add properties for Cover Art
 
-[ ] - Add properties for Author Bio
+- [ ] - Add properties for Author Bio
 
-[ ] - Add MongoDB Integration for persistant data
+- [ ] - Add MongoDB Integration for persistant data
 
 
 
 ## Long Term:
-[ ] - Refactor the code to use Vue (as a secondary application)
+- [ ] - Refactor the code to use Vue (as a secondary application)
 
 
 ## Contributions:
