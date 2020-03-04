@@ -10,10 +10,15 @@
 ## Short Term:
 
 [] - Change Styling
+
 [] - Add properties for Amazon purchase links
+
 [] - Add properties for Cover Art
+
 [] - Add properties for Author Bio
+
 [] - Add MongoDB Integration for persistant data
+
 
 
 ## Long Term:
